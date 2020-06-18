@@ -1,5 +1,5 @@
 Config = {}
-Config.Debug = true -- Debug
+Config.Debug = false -- Debug
 
 Config.MythicNotify = true -- Use mythic notify?
 
